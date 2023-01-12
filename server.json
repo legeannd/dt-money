@@ -47,6 +47,22 @@
       "type": "outcome",
       "createdAt": "2023-01-10T17:35:37.410Z",
       "id": 6
+    },
+    {
+      "description": "Cachaça",
+      "category": "Alimentação",
+      "price": 51,
+      "type": "outcome",
+      "createdAt": "2023-01-10T19:08:14.148Z",
+      "id": 7
+    },
+    {
+      "description": "Sanduíche",
+      "category": "Alimentação",
+      "price": 30,
+      "type": "outcome",
+      "createdAt": "2023-01-12T01:20:22.536Z",
+      "id": 8
     }
   ]
 }
