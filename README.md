@@ -26,9 +26,8 @@ This is a personal finances app created in React and Typescript where the user c
 
 ## Techs <a id="techs"></a>
 
-- [x] React Query
-- [x] React Router DOM
-- [x] Immer
+- [x] Radix UI
+- [x] React Hook Form
 - [x] Styled Components
 
 ## How to execute the project <a id="installation"></a>
